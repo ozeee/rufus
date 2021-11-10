@@ -88,7 +88,7 @@ msgstr "Rossz blokkok keresése"
 
 #. • IDD_DIALOG → IDC_EXTENDED_LABEL
 msgid "Create extended label and icon files"
-msgstr "Kiterejsztett kötet és ikonfájlok használata"
+msgstr "Kiterjesztett kötet és ikonfájlok használata"
 
 #. • IDD_DIALOG → IDS_STATUS_TXT
 msgid "Status"
